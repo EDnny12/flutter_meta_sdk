@@ -1,3 +1,7 @@
+## [1.0.6] - January 30 2026
+* Update Android Facebook SDK to version 18.1.3
+* Update iOS Facebook SDK (FBSDKCoreKit) to version 18.0.2
+
 ## [1.0.5] - April 4 2025
 * Update Android FB SDK Version
 

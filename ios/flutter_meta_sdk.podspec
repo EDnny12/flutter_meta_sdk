@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'flutter_meta_sdk'
-  s.version          = '1.0.0'
+  s.version          = '1.0.6'
   s.summary          = 'Meta SDK for Flutter'
   s.description      = <<-DESC
   More information about Meta SDK for iOS you can referes to official documentation https://developers.facebook.com/docs/ios
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.public_header_files = 'Classes/**/*.h'
   s.static_framework = true
   s.dependency 'Flutter'
-  s.dependency 'FBSDKCoreKit', '~> 18.0.1'
+  s.dependency 'FBSDKCoreKit', '~> 18.0.2'
   s.dependency 'FBAudienceNetwork', '~> 6.15'
   s.platform = :ios, '12.0'
 
