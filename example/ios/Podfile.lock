@@ -7,9 +7,9 @@ PODS:
     - FBSDKCoreKit_Basics (= 18.0.2)
   - FBSDKCoreKit_Basics (18.0.2)
   - Flutter (1.0.0)
-  - flutter_meta_sdk (1.0.0):
+  - flutter_meta_sdk (1.0.6):
     - FBAudienceNetwork (~> 6.15)
-    - FBSDKCoreKit (~> 18.0.1)
+    - FBSDKCoreKit (~> 18.0.2)
     - Flutter
 
 DEPENDENCIES:
@@ -35,7 +35,7 @@ SPEC CHECKSUMS:
   FBSDKCoreKit: 54f1240567e16862ab71c53c33dc347db5c524c5
   FBSDKCoreKit_Basics: eb530cd6a79030dbb11df460aafb2767bcad9028
   Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
-  flutter_meta_sdk: 828db32248552e2e12c52c70aa92eb083424636a
+  flutter_meta_sdk: 399ee0b61d0da4f7a819b90d5cf9f390321231ba
 
 PODFILE CHECKSUM: 4e8f8b2be68aeea4c0d5beb6ff1e79fface1d048
 
